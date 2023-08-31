@@ -48,7 +48,7 @@
     "convert": {
       "type": "OnnxConversion",
       "config": {
-        "target_opset": 14
+        "target_opset": 12
       }
     },
     "optimize": {
